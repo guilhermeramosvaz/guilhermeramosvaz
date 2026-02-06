@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=blue" alt="Profile views" />
 </div>
 
-# Olá, meu nome é Guilherme 👋
+# Olá, meu nome é Guilherme
 
 * 🔭 Estudante de Ciências Ambientais
 * 🌱 Atualmente focando em Geoprocessamento e Sensoriamento Remoto
