@@ -19,10 +19,10 @@
 
 ## 📫 Mídias
 <div align="center">
-  <a href="mailto:vaz.gu1lh3rm3@gmail.com">
+  <a href="vaz.gu1lh3rm3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://www.linkedin.com/in/guilherme-ramos-vaz-6157202b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAvIX%2BgaySJKpbDQvo2ClCA%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
